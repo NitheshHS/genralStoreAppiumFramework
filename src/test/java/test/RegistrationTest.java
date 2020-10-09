@@ -1,10 +1,11 @@
 package test;
 
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import base.BaseTest;
 import pageObjects.RegistrationScreen;
-
+@Listeners(base.ListenerIMP.class)
 public class RegistrationTest extends BaseTest {
 	
 	@Test

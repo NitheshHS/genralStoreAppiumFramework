@@ -2,66 +2,66 @@
 <testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="92314" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:13:20Z">
+  <suite name="Suite" duration-ms="108513" started-at="2020-10-09T16:39:24Z" finished-at="2020-10-09T16:41:13Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="92314" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:13:20Z">
+    <test name="Test" duration-ms="108513" started-at="2020-10-09T16:39:24Z" finished-at="2020-10-09T16:41:13Z">
       <class name="test.VerifyToastMSGTest">
-        <test-method status="PASS" signature="configBS()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configBS" is-config="true" duration-ms="5164" started-at="2020-10-09T16:11:42Z" finished-at="2020-10-09T16:11:47Z">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="configBS" is-config="true" duration-ms="27158" started-at="2020-10-09T16:38:57Z" finished-at="2020-10-09T16:39:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBS -->
-        <test-method status="PASS" signature="configBT()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configBT" is-config="true" duration-ms="1" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:11:47Z">
+        <test-method status="PASS" signature="configBT()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="configBT" is-config="true" duration-ms="1" started-at="2020-10-09T16:39:27Z" finished-at="2020-10-09T16:39:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBT -->
-        <test-method status="PASS" signature="configBC()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configBC" is-config="true" duration-ms="1" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:11:47Z">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="configBC" is-config="true" duration-ms="1" started-at="2020-10-09T16:39:27Z" finished-at="2020-10-09T16:39:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method status="PASS" signature="init()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="init" is-config="true" duration-ms="19247" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:12:07Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="init" is-config="true" duration-ms="30241" started-at="2020-10-09T16:39:27Z" finished-at="2020-10-09T16:39:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="verifyToastMessage()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="verifyToastMessage" duration-ms="4467" started-at="2020-10-09T16:12:07Z" finished-at="2020-10-09T16:12:11Z">
+        <test-method status="PASS" signature="verifyToastMessage()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="verifyToastMessage" duration-ms="4496" started-at="2020-10-09T16:39:58Z" finished-at="2020-10-09T16:40:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyToastMessage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="tearDown" is-config="true" duration-ms="966" started-at="2020-10-09T16:12:11Z" finished-at="2020-10-09T16:12:12Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="tearDown" is-config="true" duration-ms="1015" started-at="2020-10-09T16:40:02Z" finished-at="2020-10-09T16:40:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="configAC()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configAC" is-config="true" duration-ms="0" started-at="2020-10-09T16:12:12Z" finished-at="2020-10-09T16:12:12Z">
+        <test-method status="PASS" signature="configAC()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="configAC" is-config="true" duration-ms="0" started-at="2020-10-09T16:40:03Z" finished-at="2020-10-09T16:40:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAC -->
-        <test-method status="PASS" signature="configAT()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configAT" is-config="true" duration-ms="0" started-at="2020-10-09T16:13:20Z" finished-at="2020-10-09T16:13:20Z">
+        <test-method status="PASS" signature="configAT()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="configAT" is-config="true" duration-ms="1" started-at="2020-10-09T16:41:13Z" finished-at="2020-10-09T16:41:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAT -->
-        <test-method status="PASS" signature="configAS()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configAS" is-config="true" duration-ms="102" started-at="2020-10-09T16:13:20Z" finished-at="2020-10-09T16:13:20Z">
+        <test-method status="PASS" signature="configAS()[pri:0, instance:test.VerifyToastMSGTest@2f686d1f]" name="configAS" is-config="true" duration-ms="52" started-at="2020-10-09T16:41:15Z" finished-at="2020-10-09T16:41:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAS -->
       </class> <!-- test.VerifyToastMSGTest -->
       <class name="test.RegistrationTest">
-        <test-method status="PASS" signature="configBC()[pri:0, instance:test.RegistrationTest@59ec2012]" name="configBC" is-config="true" duration-ms="0" started-at="2020-10-09T16:12:12Z" finished-at="2020-10-09T16:12:12Z">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:test.RegistrationTest@3fee9989]" name="configBC" is-config="true" duration-ms="0" started-at="2020-10-09T16:40:03Z" finished-at="2020-10-09T16:40:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBC -->
-        <test-method status="PASS" signature="init()[pri:0, instance:test.RegistrationTest@59ec2012]" name="init" is-config="true" duration-ms="15907" started-at="2020-10-09T16:12:12Z" finished-at="2020-10-09T16:12:28Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.RegistrationTest@3fee9989]" name="init" is-config="true" duration-ms="15813" started-at="2020-10-09T16:40:03Z" finished-at="2020-10-09T16:40:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="registrationTest()[pri:0, instance:test.RegistrationTest@59ec2012]" name="registrationTest" duration-ms="50704" started-at="2020-10-09T16:12:28Z" finished-at="2020-10-09T16:13:19Z">
+        <test-method status="PASS" signature="registrationTest()[pri:0, instance:test.RegistrationTest@3fee9989]" name="registrationTest" duration-ms="52668" started-at="2020-10-09T16:40:19Z" finished-at="2020-10-09T16:41:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.RegistrationTest@59ec2012]" name="tearDown" is-config="true" duration-ms="908" started-at="2020-10-09T16:13:19Z" finished-at="2020-10-09T16:13:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.RegistrationTest@3fee9989]" name="tearDown" is-config="true" duration-ms="1033" started-at="2020-10-09T16:41:12Z" finished-at="2020-10-09T16:41:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="configAC()[pri:0, instance:test.RegistrationTest@59ec2012]" name="configAC" is-config="true" duration-ms="0" started-at="2020-10-09T16:13:20Z" finished-at="2020-10-09T16:13:20Z">
+        <test-method status="PASS" signature="configAC()[pri:0, instance:test.RegistrationTest@3fee9989]" name="configAC" is-config="true" duration-ms="1" started-at="2020-10-09T16:41:13Z" finished-at="2020-10-09T16:41:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAC -->
