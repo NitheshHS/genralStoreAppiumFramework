@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92314" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:13:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92314" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:13:20Z">
+      <class name="test.VerifyToastMSGTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configBS" is-config="true" duration-ms="5164" started-at="2020-10-09T16:11:42Z" finished-at="2020-10-09T16:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBT()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configBT" is-config="true" duration-ms="1" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configBC" is-config="true" duration-ms="1" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="init" is-config="true" duration-ms="19247" started-at="2020-10-09T16:11:47Z" finished-at="2020-10-09T16:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyToastMessage()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="verifyToastMessage" duration-ms="4467" started-at="2020-10-09T16:12:07Z" finished-at="2020-10-09T16:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToastMessage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="tearDown" is-config="true" duration-ms="966" started-at="2020-10-09T16:12:11Z" finished-at="2020-10-09T16:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configAC" is-config="true" duration-ms="0" started-at="2020-10-09T16:12:12Z" finished-at="2020-10-09T16:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAT()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configAT" is-config="true" duration-ms="0" started-at="2020-10-09T16:13:20Z" finished-at="2020-10-09T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:test.VerifyToastMSGTest@402a079c]" name="configAS" is-config="true" duration-ms="102" started-at="2020-10-09T16:13:20Z" finished-at="2020-10-09T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- test.VerifyToastMSGTest -->
+      <class name="test.RegistrationTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:test.RegistrationTest@59ec2012]" name="configBC" is-config="true" duration-ms="0" started-at="2020-10-09T16:12:12Z" finished-at="2020-10-09T16:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="init()[pri:0, instance:test.RegistrationTest@59ec2012]" name="init" is-config="true" duration-ms="15907" started-at="2020-10-09T16:12:12Z" finished-at="2020-10-09T16:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="registrationTest()[pri:0, instance:test.RegistrationTest@59ec2012]" name="registrationTest" duration-ms="50704" started-at="2020-10-09T16:12:28Z" finished-at="2020-10-09T16:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.RegistrationTest@59ec2012]" name="tearDown" is-config="true" duration-ms="908" started-at="2020-10-09T16:13:19Z" finished-at="2020-10-09T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:test.RegistrationTest@59ec2012]" name="configAC" is-config="true" duration-ms="0" started-at="2020-10-09T16:13:20Z" finished-at="2020-10-09T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- test.RegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
